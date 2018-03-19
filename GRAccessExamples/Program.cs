@@ -13,7 +13,7 @@ namespace GRAccessExamples
         {
             GRExamples grExample = new GRExamples();
 
-            grExample.getGalaxy("toolkittest");
+            grExample.GetGalaxy("toolkittests");
         }
     }
 }
